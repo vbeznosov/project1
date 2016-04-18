@@ -1,0 +1,6 @@
+1. Only 5 usable fields in the Watson input based on PoC?
+2. Can we load the data from the software that computes the values or the spreadsheet directly into the DB?
+3. UI to manage the formulas.
+
+8 industries - 3 sectors - 8 banks 7 companies — 23 companies 42 companies
+
